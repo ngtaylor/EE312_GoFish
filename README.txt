@@ -7,7 +7,7 @@ How to Use:
    create a new one called GoFish and copy the contents of this over
  - Type "make" into the command line after moving to the directory with the files from the zip
  - Start the program with "./GoFish"
- - The game will output all actions taken by each of the two computer players to the output file "go_fish.txt"
+ - The game will output all actions taken by each of the two computer players to the output file "gofish_results.txt"
  - The Rules that the computers play by are:
         1. Each player is dealt 5 cards
         2. Two cards of the same rank form a book which you take out of your hand and "place on the table" (a vector in this case)

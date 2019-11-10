@@ -20,7 +20,7 @@ void dealHand(Deck &d, Player &p, int numCards);
 int main( )
 {
     ofstream oFile;
-    oFile.open("go_fish.txt");
+    oFile.open("gofish_results.txt");
 
     int numCards = 5;
 
